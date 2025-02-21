@@ -1,4 +1,4 @@
-# Welcome to Svatunek Lab's Github Page
+# Welcome to svatunek // lab's Github Page
 
 We are a research group at TU Wien, specializing in computational and physical organic chemistry.
 
